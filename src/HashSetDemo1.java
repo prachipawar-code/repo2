@@ -10,7 +10,8 @@ public class HashSetDemo1 {
 		h.add(1);
 		h.add(3);
 		h.add(2);
-		
+		h.add(34);
+		h.add(992);
 		System.out.println(h);
 		
 		int x=2;
